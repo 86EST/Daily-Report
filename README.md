@@ -4,3 +4,5 @@
 
 ### 4 September 2024
 * How does the Internet work?
+### 5 September 2024
+* What is HTTP?
