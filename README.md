@@ -6,3 +6,5 @@
 * How does the Internet work?
 ### 5 September 2024
 * What is HTTP?
+### 6 September 2024
+* What is a Domain Name?
