@@ -8,3 +8,9 @@
 * What is HTTP?
 ### 6 September 2024
 * What is a Domain Name?
+### 7 September 2024
+* What is hosting?
+* DNS and how it works?
+* Browsers and how they work?
+* START: Learn the basics
+* Build my first HTML and CSS webpage
