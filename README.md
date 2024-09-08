@@ -12,5 +12,8 @@
 * What is hosting?
 * DNS and how it works?
 * Browsers and how they work?
-* START: Learn the basics
-* Build my first HTML and CSS webpage
+* Started learning the basics of HTML and CSS
+* Built my first webpage using HTML and CSS
+### 8 September 2024
+* Continued learning the basics of HTML and CSS
+* Fixed bugs in my first HTML and CSS webpage
