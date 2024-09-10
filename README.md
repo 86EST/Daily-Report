@@ -17,3 +17,6 @@
 ### 8 September 2024
 * Continued learning the basics of HTML and CSS
 * Fixed bugs in my first HTML and CSS webpage
+### 10 September 2024
+* Continued learning the basics of HTML and CSS
+* Working on my first HTML and CSS webpage
